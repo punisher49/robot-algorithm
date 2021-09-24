@@ -1,0 +1,15 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "creating robot on 5x5 table",
+  "main": "robot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hasan Aliyev",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
