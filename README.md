@@ -1,12 +1,13 @@
 # SOLUTION OF ROBOT CHALLENGE
 
-This repository includes code solution for a Robot Challenge including solutions for an extension.
+The code in this repository is a solution for the Robot Challenge including solutions for the extension.
+
 It also includes basic test cases, testing most of the functions
 
 ## Installation
 
 Use the latest version of [Node JS](https://nodejs.org/en/).
-Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install foobar.
+Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install dev dependencies.
 
 ```bash
 npm install
